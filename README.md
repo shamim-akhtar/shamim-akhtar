@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align='left'>Hi there 👋 I'm Shamim 👨‍ Educator | Developer | Blogger | Mentor💻
+<h2 align='left'>Hi there 👋 I'm Shamim 😷 Educator | 💻 Developer | 📘 Blogger | 💝 Mentor
 </h2>
 
 A highly motivated, passionate, committed and optimistic professional. During my industry days, I leveraged hands-on experience in full software development lifecycle by planning, organizing, evaluating and directing operations to manage budgets, resources and specifications. 
