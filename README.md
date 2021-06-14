@@ -41,6 +41,10 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 <h2>I’m currently working on</h2>
 
+> [Split Image with Bezier Curve](https://github.com/shamim-akhtar/split-image).
+
+Trying out mechanisms to split images based on bezier control points, save with transparency and load back as sprites.
+
 > [Pathfinding for Game Development](https://github.com/shamim-akhtar/unity-pathfinding).
 
 This project implements a pathfinding framework using C# for Unity. I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
