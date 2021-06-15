@@ -38,19 +38,29 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 <h2>I’m currently working on</h2>
 
+> #### [A Jigsaw Puzzle Game using Unity](https://github.com/shamim-akhtar/jigsaw-puzzle). 
+> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+> 
+> This project is a Jigsaw Puzzle game. The tiles are dynamically created at runtime based on Bezier Curve. 
+
+![Sample screenshot](https://github.com/shamim-akhtar/jigsaw-puzzle/blob/main/Jigsaw.jpg)
+
 > #### [Split Image to Make Jigsaw Pieces](https://github.com/shamim-akhtar/split-image).
+> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 > 
 > This project allows creating Jigsaw tiles from an image using Bezier curves. I have implemented this project using Unity and C#. The motivation for this came from the need to create a Jigsaw Puzzle game.
 
 ![Sample screenshot](https://github.com/shamim-akhtar/split-image/blob/main/screenshot3.jpg)
 
 > #### [Pathfinding for Game Development](https://github.com/shamim-akhtar/unity-pathfinding).
+> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 > 
 > This project implements a pathfinding framework using C# for Unity. I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
 
 ![Pathfinding](https://github.com/shamim-akhtar/unity-pathfinding/blob/main/screenshot2_PathFinding.jpg)
 
 > #### [Faramira 2D Games](https://github.com/shamim-akhtar/faramira).
+> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 > 
 > Faramira Games is a collection of 2D games built as tutorials for learning game development. These are classic 2D games.
 >
