@@ -2,6 +2,15 @@
   <a href="#">
     <img src="https://visitor-badge.glitch.me/badge?page_id=shamim-akhtar.visitor-badge" />        
   </a>
+  <a href="https://www.linkedin.com/in/shamim-akhtar/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shamim.akhtar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?flat-square&logo=gmail&logoColor=white" />        
+  </a>
+  <a href="https://www.facebook.com/faramiraSG/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?flat-square&logo=facebook&logoColor=white" />        
+  </a>
 </p>
 
 ### Hi there I'm Shamim 
@@ -16,18 +25,6 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 **The past is something that you cannot undo. The future is something that you can build.**
 
 *I enjoy coding, developing games and writing tutorials and other articles in [Faramira](https://faramira.com/).*
-<h2>Connect with me</h2>
-<p align='left'>
-  <a href="https://www.linkedin.com/in/shamim-akhtar/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shamim.akhtar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>
-  <a href="https://www.facebook.com/faramiraSG/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
-  </a>
-</p>
 
 <h2>My Github Stats</h2>
 <p align='left'>
