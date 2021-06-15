@@ -38,9 +38,11 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 <h2>I’m currently working on</h2>
 
-> [Split Image with Bezier Curve](https://github.com/shamim-akhtar/split-image).
+> [Split Image to Make Jigsaw Pieces](https://github.com/shamim-akhtar/split-image).
 
-Trying out mechanisms to split images based on bezier control points, save with transparency and load back as sprites.
+This project allows creating Jigsaw tiles from an image using Bezier curves. I have implemented this project using Unity and C#. The motivation for this came from the need to create a Jigsaw Puzzle game.
+
+![Sample screenshot](https://github.com/shamim-akhtar/split-image/blob/main/screenshot3.jpg)
 
 > [Pathfinding for Game Development](https://github.com/shamim-akhtar/unity-pathfinding).
 
