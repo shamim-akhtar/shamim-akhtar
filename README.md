@@ -38,19 +38,24 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 <h2>I’m currently working on</h2>
 
-> [Split Image to Make Jigsaw Pieces](https://github.com/shamim-akhtar/split-image).
-
-This project allows creating Jigsaw tiles from an image using Bezier curves. I have implemented this project using Unity and C#. The motivation for this came from the need to create a Jigsaw Puzzle game.
+> #### [Split Image to Make Jigsaw Pieces](https://github.com/shamim-akhtar/split-image).
+> 
+> This project allows creating Jigsaw tiles from an image using Bezier curves. I have implemented this project using Unity and C#. The motivation for this came from the need to create a Jigsaw Puzzle game.
 
 ![Sample screenshot](https://github.com/shamim-akhtar/split-image/blob/main/screenshot3.jpg)
 
-> [Pathfinding for Game Development](https://github.com/shamim-akhtar/unity-pathfinding).
-
-This project implements a pathfinding framework using C# for Unity. I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
+> #### [Pathfinding for Game Development](https://github.com/shamim-akhtar/unity-pathfinding).
+> 
+> This project implements a pathfinding framework using C# for Unity. I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
 
 ![Pathfinding](https://github.com/shamim-akhtar/unity-pathfinding/blob/main/screenshot2_PathFinding.jpg)
 
-> [Faramira 2D Games](https://github.com/shamim-akhtar/faramira).
+> #### [Faramira 2D Games](https://github.com/shamim-akhtar/faramira).
+> 
+> Faramira Games is a collection of 2D games built as tutorials for learning game development. These are classic 2D games.
+>
+![Games](https://github.com/shamim-akhtar/faramira/blob/main/screenshot1.jpg)
+
 
 <h2>Read my articles</h2>
 
