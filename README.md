@@ -38,6 +38,12 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 <h2>I’m currently working on</h2>
 
+> #### [Pathfinding for Game Development](https://github.com/shamim-akhtar/tutorial-pathfinding).
+> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+> 
+> This project implements a pathfinding framework using C# for Unity. In this four-part series of tutorials, I go in-depth to solving the pathfinding problem using C# in Unity I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
+
+![Pathfinding](https://github.com/shamim-akhtar/unity-pathfinding/blob/main/screenshot2_PathFinding.jpg)
 > #### [A Jigsaw Puzzle Game using Unity](https://github.com/shamim-akhtar/jigsaw-puzzle). 
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 > 
@@ -52,12 +58,6 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 ![Sample screenshot](https://github.com/shamim-akhtar/split-image/blob/main/screenshot3.jpg)
 
-> #### [Pathfinding for Game Development](https://github.com/shamim-akhtar/unity-pathfinding).
-> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
-> 
-> This project implements a pathfinding framework using C# for Unity. I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
-
-![Pathfinding](https://github.com/shamim-akhtar/unity-pathfinding/blob/main/screenshot2_PathFinding.jpg)
 
 > #### [Faramira 2D Games](https://github.com/shamim-akhtar/faramira).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
