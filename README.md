@@ -18,7 +18,7 @@
 #### Educator | Developer | Mentor
 
 
-A highly motivated, passionate, committed and optimistic professional. During my industry days, I leveraged hands-on experience in full software development lifecycle by planning, organizing, evaluating and directing operations to manage budgets, resources and specifications. 
+A motivated, passionate, committed and optimistic professional. During my industry days, I leveraged hands-on experience in full software development lifecycle by planning, organizing, evaluating and directing operations to manage budgets, resources and specifications. 
 
 Now I bring the same enthusiasm, passion and commitment to help motivate, guide and mentor young students into their transition to the Industry. I try to bring a positive influence in reshaping their career for a fulfilling future. My primary objective is to communicate the right idea and show optimism. 
 
@@ -37,6 +37,12 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 
 <h2>I’m currently working on</h2>
+
+> #### [Flocking and Boids Simulation in Unity2D](https://github.com/shamim-akhtar/tutorial-pathfinding).
+> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+
+https://user-images.githubusercontent.com/7691849/132988865-edc0c808-ee13-4d49-92de-37e3546aad7d.mp4
+> This project implements a flocking and boids simulation using Coroutines in Unity2D.
 
 > #### [Pathfinding for Game Development](https://github.com/shamim-akhtar/tutorial-pathfinding).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
