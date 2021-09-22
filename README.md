@@ -38,7 +38,7 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 <h2>I’m currently working on</h2>
 
-> #### [Flocking and Boids Simulation in Unity2D](https://github.com/shamim-akhtar/tutorial-pathfinding).
+> #### [Flocking and Boids Simulation in Unity2D](https://github.com/shamim-akhtar/flocking-unity).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 
 https://user-images.githubusercontent.com/7691849/132988865-edc0c808-ee13-4d49-92de-37e3546aad7d.mp4
