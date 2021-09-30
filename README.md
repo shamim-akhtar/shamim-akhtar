@@ -18,7 +18,7 @@
 #### Educator | Developer | Mentor
 
 
-A motivated, passionate, committed and optimistic professional. During my industry days, I leveraged hands-on experience in full software development lifecycle by planning, organizing, evaluating and directing operations to manage budgets, resources and specifications. 
+A passionate, committed and optimistic professional. During my industry days, I leveraged hands-on experience in full software development lifecycle by planning, organizing, evaluating and directing operations to manage budgets, resources and specifications. 
 
 Now I bring the same enthusiasm, passion and commitment to help motivate, guide and mentor young students into their transition to the Industry. I try to bring a positive influence in reshaping their career for a fulfilling future. My primary objective is to communicate the right idea and show optimism. 
 
