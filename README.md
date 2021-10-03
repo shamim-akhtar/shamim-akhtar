@@ -38,6 +38,12 @@ Now I bring the same enthusiasm, passion and commitment to help motivate, guide 
 
 <h2>I’m currently working on</h2>
 
+> #### [Implement Mazes in Unity2D](https://github.com/shamim-akhtar/tutorial-maze).
+> ![Unity](https://img.shields.io/badge/Unity-2021.1.21f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+> ![Maze Generation](https://github.com/shamim-akhtar/tutorial-maze/blob/main/MazeGeneration.gif)
+> 
+> This repository comprises the source codes for my tutorial on how to implement mazes in Unity2D by applying the backtracking algorithm with an explicit stack. Read the complete tutorial [Implement Mazes in Unity2D](https://faramira.com/implement-mazes-in-unity2d/)
+
 > #### [Flocking and Boids Simulation in Unity2D](https://github.com/shamim-akhtar/flocking-unity).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 
