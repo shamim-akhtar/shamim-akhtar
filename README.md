@@ -17,10 +17,7 @@
 
 #### Educator | Developer | Mentor
 
-
-A passionate, committed and optimistic professional. During my industry days, I leveraged hands-on experience in full software development lifecycle by planning, organizing, evaluating and directing operations to manage budgets, resources and specifications. 
-
-Now I bring the same enthusiasm, passion and commitment to help motivate, guide and mentor young students into their transition to the Industry. I try to bring a positive influence in reshaping their career for a fulfilling future. My primary objective is to communicate the right idea and show optimism. 
+Experienced software developer with expertise in agile methodologies. Passionate about mentoring and guiding the next generation of professionals to achieve their career goals. Skilled in communicating ideas effectively and inspiring optimism in others.
 
 **The past is something that you cannot undo. The future is something that you can build.**
 
