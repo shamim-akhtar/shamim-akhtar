@@ -13,7 +13,7 @@
   </a>
 </p>
 
-### Hi there I'm Shamim 
+### Hi there, I'm Shamim 
 
 #### Educator | Developer | Mentor
 
@@ -22,15 +22,6 @@ Experienced software developer with expertise in agile methodologies. Passionate
 **The past is something that you cannot undo. The future is something that you can build.**
 
 *I enjoy coding, developing games and writing tutorials and other articles in [Faramira](https://faramira.com/).*
-
-<h2>My Github Stats</h2>
-<p align='left'>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=shamim-akhtar" />
-  </a>
-  <a href="#">
-  </a>
-</p>
 
 
 <h2>I’m currently working on</h2>
