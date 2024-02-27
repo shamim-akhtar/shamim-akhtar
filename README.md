@@ -32,7 +32,8 @@ Experienced software developer with expertise in agile methodologies. Passionate
 ![Jigsaw](https://github.com/shamim-akhtar/jigsaw-puzzle/blob/main/jigsaw.jpg)
 
 > 
-> This repository comprises the source codes for my tutorial on [**Create a Jigsaw Puzzle Game in Unity**](https://faramira.com/create-a-jigsaw-puzzle-game-in-unity/).
+> This repository comprises the source codes for my tutorial on [**Create a Jigsaw Puzzle Game in Unity**](https://faramira.com/create-a-jigsaw-puzzle-game-in-unity/). In this tutorial, we will go in-depth and learn how to make a jigsaw puzzle game using C sharp in Unity. 
+We will start the tutorial with the basics of the Bézier  curve, followed by implementing Bézier  curves in Unity. We will then move on to creating jigsaw tiles from an existing image using the Bézier  curve, then generate a jigsaw board from an image and then finally create the jigsaw game in Unity. 
 
 > #### [Implement Mazes in Unity2D](https://github.com/shamim-akhtar/tutorial-maze).
 > ![Unity](https://img.shields.io/badge/Unity-2021.1.21f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
