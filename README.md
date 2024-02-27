@@ -26,9 +26,19 @@ Experienced software developer with expertise in agile methodologies. Passionate
 
 <h2>I’m currently working on</h2>
 
+> #### [Create a Jigsaw Puzzle Game in Unity](https://github.com/shamim-akhtar/jigsaw-puzzle/tree/main).
+> ![Unity](https://img.shields.io/badge/Unity-2022.3.2f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+
+![Jigsaw](https://github.com/shamim-akhtar/jigsaw-puzzle/blob/main/jigsaw.jpg)
+
+> 
+> This repository comprises the source codes for my tutorial on [**Create a Jigsaw Puzzle Game in Unity**](https://faramira.com/create-a-jigsaw-puzzle-game-in-unity/).
+
 > #### [Implement Mazes in Unity2D](https://github.com/shamim-akhtar/tutorial-maze).
 > ![Unity](https://img.shields.io/badge/Unity-2021.1.21f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
-> ![Maze Generation](https://github.com/shamim-akhtar/tutorial-maze/blob/main/MazeGeneration.gif)
+
+![Maze Generation](https://github.com/shamim-akhtar/tutorial-maze/blob/main/MazeGeneration.gif)
+
 > 
 > This repository comprises the source codes for my tutorial on how to implement mazes in Unity2D by applying the backtracking algorithm with an explicit stack. Read the complete tutorial [Implement Mazes in Unity2D](https://faramira.com/implement-mazes-in-unity2d/)
 
@@ -44,19 +54,7 @@ https://user-images.githubusercontent.com/7691849/132988865-edc0c808-ee13-4d49-9
 > This project implements a pathfinding framework using C# for Unity. In this four-part series of tutorials, I go in-depth to solving the pathfinding problem using C# in Unity I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
 
 ![Pathfinding](https://github.com/shamim-akhtar/unity-pathfinding/blob/main/screenshot2_PathFinding.jpg)
-> #### [A Jigsaw Puzzle Game using Unity](https://github.com/shamim-akhtar/jigsaw-puzzle). 
-> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
-> 
-> This project is a Jigsaw Puzzle game. The tiles are dynamically created at runtime based on Bezier Curve. 
 
-![Sample screenshot](https://github.com/shamim-akhtar/jigsaw-puzzle/blob/main/Jigsaw.jpg)
-
-> #### [Split Image to Make Jigsaw Pieces](https://github.com/shamim-akhtar/split-image).
-> ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
-> 
-> This project allows creating Jigsaw tiles from an image using Bezier curves. I have implemented this project using Unity and C#. The motivation for this came from the need to create a Jigsaw Puzzle game.
-
-![Sample screenshot](https://github.com/shamim-akhtar/split-image/blob/main/screenshot3.jpg)
 
 
 > #### [Faramira 2D Games](https://github.com/shamim-akhtar/faramira).
