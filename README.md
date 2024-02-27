@@ -23,7 +23,7 @@ Experienced software developer with expertise in agile methodologies. Passionate
 
 <h2>I’m currently working on</h2>
 
-> #### [Create a Jigsaw Puzzle Game in Unity](https://github.com/shamim-akhtar/jigsaw-puzzle/tree/main).
+> ## [Create a Jigsaw Puzzle Game in Unity](https://github.com/shamim-akhtar/jigsaw-puzzle/tree/main).
 > ![Unity](https://img.shields.io/badge/Unity-2022.3.2f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 
 ![Jigsaw](https://github.com/shamim-akhtar/jigsaw-puzzle/blob/main/jigsaw.jpg)
@@ -32,7 +32,7 @@ Experienced software developer with expertise in agile methodologies. Passionate
 > This repository comprises the source codes for my tutorial on [**Create a Jigsaw Puzzle Game in Unity**](https://faramira.com/create-a-jigsaw-puzzle-game-in-unity/). In this tutorial, we will go in-depth and learn how to make a jigsaw puzzle game using C sharp in Unity. 
 We will start the tutorial with the basics of the Bézier  curve, followed by implementing Bézier  curves in Unity. We will then move on to creating jigsaw tiles from an existing image using the Bézier  curve, then generate a jigsaw board from an image and then finally create the jigsaw game in Unity. 
 
-> #### [Implement Mazes in Unity2D](https://github.com/shamim-akhtar/tutorial-maze).
+> ## [Implement Mazes in Unity2D](https://github.com/shamim-akhtar/tutorial-maze).
 > ![Unity](https://img.shields.io/badge/Unity-2021.1.21f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 
 ![Maze Generation](https://github.com/shamim-akhtar/tutorial-maze/blob/main/MazeGeneration.gif)
@@ -40,13 +40,13 @@ We will start the tutorial with the basics of the Bézier  curve, followed by im
 > 
 > This repository comprises the source codes for my tutorial on how to implement mazes in Unity2D by applying the backtracking algorithm with an explicit stack. Read the complete tutorial [Implement Mazes in Unity2D](https://faramira.com/implement-mazes-in-unity2d/)
 
-> #### [Flocking and Boids Simulation in Unity2D](https://github.com/shamim-akhtar/flocking-unity).
+> ## [Flocking and Boids Simulation in Unity2D](https://github.com/shamim-akhtar/flocking-unity).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 
 https://user-images.githubusercontent.com/7691849/132988865-edc0c808-ee13-4d49-92de-37e3546aad7d.mp4
 > This project implements a flocking and boids simulation using Coroutines in Unity2D.
 
-> #### [Pathfinding for Game Development](https://github.com/shamim-akhtar/tutorial-pathfinding).
+> ## [Pathfinding for Game Development](https://github.com/shamim-akhtar/tutorial-pathfinding).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 > 
 > This project implements a pathfinding framework using C# for Unity. In this four-part series of tutorials, I go in-depth to solving the pathfinding problem using C# in Unity I implemented this project primarily as a tutorial. However, you can use the core C# pathfinding classes for a wide variety of pathfinding applications.
@@ -55,7 +55,7 @@ https://user-images.githubusercontent.com/7691849/132988865-edc0c808-ee13-4d49-9
 
 
 
-> #### [Faramira 2D Games](https://github.com/shamim-akhtar/faramira).
+> ## [Faramira 2D Games](https://github.com/shamim-akhtar/faramira).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 > 
 > Faramira Games is a collection of 2D games built as tutorials for learning game development. These are classic 2D games.
