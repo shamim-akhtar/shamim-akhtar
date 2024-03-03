@@ -24,20 +24,26 @@ Experienced software developer with expertise in agile methodologies. Passionate
 <h2>I’m currently working on</h2>
 
 ## [Create a Jigsaw Puzzle Game in Unity](https://github.com/shamim-akhtar/jigsaw-puzzle/tree/main).
-> ![Unity](https://img.shields.io/badge/Unity-2022.3.2f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+![Unity](https://img.shields.io/badge/Unity-2022.3.2f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 
 ![Jigsaw](https://github.com/shamim-akhtar/jigsaw-puzzle/blob/main/jigsaw.jpg)
 
 > 
-> This repository comprises the source codes for my tutorial on [**Create a Jigsaw Puzzle Game in Unity**](https://faramira.com/create-a-jigsaw-puzzle-game-in-unity/). In this tutorial, we will go in-depth and learn how to make a jigsaw puzzle game using C sharp in Unity. We will start the tutorial with the basics of the Bézier  curve, followed by implementing Bézier  curves in Unity. We will then move on to creating jigsaw tiles from an existing image using the Bézier  curve, then generate a jigsaw board from an image and then finally create the jigsaw game in Unity. 
+> This repository comprises the source codes for my tutorial on [**Create a Jigsaw Puzzle Game in Unity**](https://faramira.com/create-a-jigsaw-puzzle-game-in-unity/).
 
-## [Implement Mazes in Unity2D](https://github.com/shamim-akhtar/tutorial-maze).
-> ![Unity](https://img.shields.io/badge/Unity-2021.1.21f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+In this tutorial, we will go in-depth and learn how to make a jigsaw puzzle game using C sharp in Unity. We will start the tutorial with the basics of the Bézier  curve, followed by implementing Bézier  curves in Unity. We will then move on to creating jigsaw tiles from an existing image using the Bézier  curve, then generate a jigsaw board from an image and then finally create the jigsaw game in Unity. 
 
-![Maze Generation](https://github.com/shamim-akhtar/tutorial-maze/blob/main/MazeGeneration.gif)
+## [Creating Dynamic Mazes in Unity2D](https://github.com/shamim-akhtar/tutorial-maze). 
+![](https://img.shields.io/badge/Unity-2022.3.2f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
+
+![Maze Generation](https://github.com/shamim-akhtar/tutorial-maze/blob/main/maze.jpg)
+
 
 > 
-> This repository comprises the source codes for my tutorial on how to implement mazes in Unity2D by applying the backtracking algorithm with an explicit stack. Read the complete tutorial [Implement Mazes in Unity2D](https://faramira.com/implement-mazes-in-unity2d/)
+> This repository comprises the source codes for my tutorial on how to implement dynamic mazes in Unity2D by applying the backtracking algorithm with an explicit stack. Read the complete tutorial [Implement Mazes in Unity2D](https://faramira.com/implement-mazes-in-unity2d/)
+
+Mazes have long been a staple in video games, offering players a challenging and immersive experience as they navigate through winding pathways and hidden corridors. And now, with Unity, you can bring these intricate mazes to life in your own projects. 
+In this tutorial, we will take you through the step-by-step process of generating mazes in Unity2D, from setting up your project to implementing the backtracking algorithm for maze generation. By the end of this video, you'll have the skills and knowledge to create captivating mazes that will keep your players engaged and entertained.
 
 ## [Flocking and Boids Simulation in Unity2D](https://github.com/shamim-akhtar/flocking-unity).
 > ![Unity](https://img.shields.io/badge/Unity-2020.3.5f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
