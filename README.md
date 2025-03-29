@@ -23,6 +23,12 @@ Experienced software developer with expertise in agile methodologies. Passionate
 
 <h2>I’m currently working on</h2>
 
+## [TPCraw - TemasekPoly Reddit Sentiment Analysis](https://github.com/shamim-akhtar/tpcraw).
+[![](https://github.com/shamim-akhtar/tpcraw/blob/main/images/image_v2-2_01.PNG)](https://shamim-akhtar.github.io/tpcraw/)
+TPCraw is a Python-based project that crawls posts and comments from the r/TemasekPoly subreddit and then analyzes them using Google’s Generative AI (Gemini). The project produces sentiment analyses, summaries, and visualizations (via a web-based dashboard) to gain insights into discussions about Temasek Polytechnic on Reddit.
+
+[View the Dashboard](https://shamim-akhtar.github.io/tpcraw/).
+
 ## [Create a Jigsaw Puzzle Game in Unity](https://github.com/shamim-akhtar/jigsaw-puzzle/tree/main).
 ![Unity](https://img.shields.io/badge/Unity-2022.3.2f1-green) ![C#](https://img.shields.io/badge/%20-C%23-blue)
 
