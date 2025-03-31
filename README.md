@@ -23,6 +23,17 @@ Experienced software developer with expertise in agile methodologies. Passionate
 
 <h2>I’m currently working on</h2>
 
+## [CPF Simulator](https://github.com/shamim-akhtar/cpf-sim)
+
+[![](https://github.com/shamim-akhtar/cpf-sim/blob/main/images/image_02.PNG)](https://shamim-akhtar.github.io/cpf-sim/)
+
+A responsive web-based CPF Simulator was designed to calculate projected CPF balances based on user inputs. Built using HTML, JavaScript, Bootstrap, and Chart.js. 
+This CPF Simulator is created for educational purposes only and serves as a tool to help users approximate their projected CPF balances over time. The calculations used in this simulator are based on publicly available information and general assumptions about CPF contributions, interest rates, and account limits.
+
+While this simulator aims to provide useful estimates, it is not a substitute for official CPF statements or professional financial advice. Always refer to your official CPF account or consult a financial advisor for accurate and personalized financial planning.
+
+[View the Simulator](https://shamim-akhtar.github.io/cpf-sim).
+
 ## [TPCraw - TemasekPoly Reddit Sentiment Analysis](https://github.com/shamim-akhtar/tpcraw).
 [![](https://github.com/shamim-akhtar/tpcraw/blob/main/images/image_v2-2_01.PNG)](https://shamim-akhtar.github.io/tpcraw/)
 TPCraw is a Python-based project that crawls posts and comments from the r/TemasekPoly subreddit and then analyzes them using Google’s Generative AI (Gemini). The project produces sentiment analyses, summaries, and visualizations (via a web-based dashboard) to gain insights into discussions about Temasek Polytechnic on Reddit.
