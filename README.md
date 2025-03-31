@@ -14,7 +14,7 @@
 
 #### Educator | Developer | Mentor
 
-Experienced software developer with expertise in agile methodologies. Passionate about mentoring and guiding the next generation of professionals to achieve their career goals. Skilled in communicating ideas effectively and inspiring optimism in others.
+An educator, a learner and a software developer with expertise in agile methodologies. Passionate about mentoring and guiding the next generation of professionals to achieve their career goals. Skilled in communicating ideas effectively and inspiring optimism in others.
 
 **The past is something that you cannot undo. The future is something that you can build.**
 
