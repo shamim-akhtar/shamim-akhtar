@@ -14,9 +14,9 @@
 
 #### Educator | Developer | Mentor
 
-An educator, a learner and a software developer with expertise in agile methodologies. Passionate about mentoring and guiding the next generation of professionals to achieve their career goals. Skilled in communicating ideas effectively and inspiring optimism in others.
+I am a teacher and a student at heart, as well as a software developer who uses Agile methods. My passion is mentoring young professionals to help them succeed in their careers.
 
-**The past is something that you cannot undo. The future is something that you can build.**
+**You cannot change the past, but you can build the future..**
 
 *I enjoy coding, developing games and writing tutorials and other articles in [Faramira](https://faramira.com/).*
 
