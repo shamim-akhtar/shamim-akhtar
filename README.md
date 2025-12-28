@@ -23,6 +23,15 @@ I am a teacher and a student at heart, as well as a software developer who uses 
 
 <h2>I’m currently working on</h2>
 
+## [A Socio-Behavioural Simulation Model for Engineering Design Optimization](https://github.com/shamim-akhtar/socio-behavioural-sim)
+
+This repository contains the C++ implementation of the **Socio-Behavioural Simulation Model**, a constrained optimization algorithm inspired by the social evolution of human civilizations.
+
+This code is based strictly on the research paper:
+> **Akhtar, S., Tai, K., & Ray, T. (2002).** *A Socio-Behavioural Simulation Model for Engineering Design Optimization*. Engineering Optimization, 34(4), 341-354.
+
+**View the paper on Research Gate [A Socio--Behavioural Simulation Model For Engineering Design Optimization](https://www.researchgate.net/publication/216300037_A_Socio--Behavioural_Simulation_Model_For_Engineering_Design_Optimization).**
+
 ## [CPF Simulator](https://github.com/shamim-akhtar/cpf-sim)
 
 [![](https://github.com/shamim-akhtar/cpf-sim/blob/main/images/CPFSim_2026.jpg)](https://shamim-akhtar.github.io/cpf-sim/index.html)
